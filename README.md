@@ -1,2 +1,2 @@
-# pacman
+# pacman-project
 The Berkeley Pacman Project
