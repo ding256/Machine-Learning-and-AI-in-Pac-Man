@@ -1,5 +1,5 @@
-# pacman-project over
-The Berkeley Pacman Project
+# Pacman Project
+The Berkeley Pacman Project.
 Applying all sorts of different machine learning and AI algorithms to the game of pacman.
 
 The Pac-Man projects were developed for UC Berkeley's artificial intelligence course, CS 188. It requires applying an array of AI techniques to playing Pac-Man. However, these projects don't focus on building AI for video games. Instead, they focus on foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
