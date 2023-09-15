@@ -1,8 +1,8 @@
 # Pacman Project
 The Pacman Project.
-Applying all sorts of different machine learning and AI algorithms to the game of pacman.
+Applying all sorts of different machine learning and AI algorithms to the game of Pacman, enabled Pacman to intelligently navigate the game environment, optimizing objectives like shortest path to food, ghost avoidance, and maximizing outcomes.
 
-The Pac-Man projects were developed for UC Berkeley's artificial intelligence course, CS 188. It requires applying an array of AI techniques to playing Pac-Man. However, these projects don't focus on building AI for video games. Instead, they focus on foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
+Designed and engineered custom data structures such as heuristics, cost function, probability table, and Monte Carlo tree to assist algorithm performance. It requires applying an array of AI techniques to playing Pac-Man. However, the projects don't focus on building AI for video games. Instead, it focuses on foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
 
 The projects allowed me to immediately visualize the results of my own algorithms, and respond accordingly. They contain code examples and directions but do not force students to wade through undue amounts of scaffolding. Finally, Pac-Man provides a challenging problem environment that demands creative solutions; real-world AI problems are challenging, and Pac-Man is too.
 
