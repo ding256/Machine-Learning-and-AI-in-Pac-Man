@@ -1,4 +1,4 @@
-# Pacman Project
+# Machine Learning and AI in Pacman
 The Pacman Project.
 Applying all sorts of different machine learning and AI algorithms to the game of Pacman, enabled Pacman to intelligently navigate the game environment, optimizing objectives like shortest path to food, ghost avoidance, and maximizing outcomes.
 
